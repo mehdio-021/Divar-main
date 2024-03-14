@@ -1,0 +1,10 @@
+.footer {
+  text-align: center;
+  margin-top: 100px;
+  direction: ltr;
+  border-top: 2px solid rgb(234, 234, 234);
+  padding-top: 10px;
+}
+.footer span{
+    color: red;
+}

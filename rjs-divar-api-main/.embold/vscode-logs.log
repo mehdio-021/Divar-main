@@ -1,0 +1,114 @@
+2024-02-07 12:39:47 info: Congratulations, your extension "Embold" is now active!
+2024-02-07 12:39:47 info: tempDirectory : c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-02-07 12:39:48 info: Extraction complete for source: c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\embold-scanner-archive.zip, destination: c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-02-07 12:39:48 info: Extension installed on machine OS : win32
+2024-02-07 12:39:48 info: Fetched the issues from DB
+2024-02-07 12:39:48 error: ERROR checking java version : Error: Command failed: java -version
+The system cannot find the file C:\ProgramData\Oracle\Java\javapath\java.exe.
+
+2024-02-07 12:39:48 info: Java version installed on machine : 
+The system cannot find the file C:\ProgramData\Oracle\Java\javapath\java.exe.
+
+2024-02-07 12:39:48 info: Java installed on machine.
+2024-02-07 12:39:49 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-02-07 12:39:49 info: Current installed embold extension version : 0.1.8
+2024-02-07 12:39:49 info: Latest embold extension version on marketplace : 0.1.6
+2024-02-07 12:41:31 info: FIle extension : js
+2024-02-07 12:41:31 info: Reading config.json file from resources
+2024-02-07 12:41:31 info: configFile :c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\config.json
+2024-02-07 12:41:31 info: EMBOLD_URL  :https://packages.embold.io/
+2024-02-07 12:41:31 info: EMBOLD_TOKEN  :eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw
+2024-02-07 12:41:31 info: Executing embold-cli command
+2024-02-07 12:41:31 info: "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\temp\embold-scanner-archive\bin\embold-scanner.bat" local-analyse -c "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -l "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs" -r dummy -la  -od "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -of db -si kkyuhsjrfl
+2024-02-07 12:41:31 error: stderr: The system cannot find the file C:\ProgramData\Oracle\Java\javapath\java.exe.
+
+2024-02-07 12:41:31 info: child process exited with code 9059
+2024-02-07 12:41:31 error: Error in Embold scan, Error code:9059 For more info check c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs\browserstack-codequality-scanner.log
+2024-02-07 12:41:37 info: FIle extension : js
+2024-02-07 12:41:37 info: Reading config.json file from resources
+2024-02-07 12:41:37 info: configFile :c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\config.json
+2024-02-07 12:41:37 info: EMBOLD_URL  :https://packages.embold.io/
+2024-02-07 12:41:37 info: EMBOLD_TOKEN  :eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw
+2024-02-07 12:41:37 info: Executing embold-cli command
+2024-02-07 12:41:37 info: "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\temp\embold-scanner-archive\bin\embold-scanner.bat" local-analyse -c "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -l "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs" -r dummy -la  -od "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -of db -si 3h2swdet4h
+2024-02-07 12:41:37 error: stderr: The system cannot find the file C:\ProgramData\Oracle\Java\javapath\java.exe.
+
+2024-02-07 12:41:37 info: child process exited with code 9059
+2024-02-07 12:41:37 error: Error in Embold scan, Error code:9059 For more info check c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs\browserstack-codequality-scanner.log
+2024-02-07 12:41:40 info: FIle extension : js
+2024-02-07 12:41:41 info: Reading config.json file from resources
+2024-02-07 12:41:41 info: configFile :c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\config.json
+2024-02-07 12:41:41 info: EMBOLD_URL  :https://packages.embold.io/
+2024-02-07 12:41:41 info: EMBOLD_TOKEN  :eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw
+2024-02-07 12:41:41 info: Executing embold-cli command
+2024-02-07 12:41:41 info: "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\temp\embold-scanner-archive\bin\embold-scanner.bat" local-analyse -c "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -l "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs" -r dummy -la  -od "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -of db -si 8mix1pjs33
+2024-02-07 12:41:41 error: stderr: The system cannot find the file C:\ProgramData\Oracle\Java\javapath\java.exe.
+
+2024-02-07 12:41:41 info: child process exited with code 9059
+2024-02-07 12:41:41 error: Error in Embold scan, Error code:9059 For more info check c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs\browserstack-codequality-scanner.log
+2024-02-07 12:41:48 info: FIle extension : js
+2024-02-07 12:41:48 info: Reading config.json file from resources
+2024-02-07 12:41:48 info: configFile :c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\config.json
+2024-02-07 12:41:48 info: EMBOLD_URL  :https://packages.embold.io/
+2024-02-07 12:41:48 info: EMBOLD_TOKEN  :eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw
+2024-02-07 12:41:48 info: Executing embold-cli command
+2024-02-07 12:41:48 info: "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\temp\embold-scanner-archive\bin\embold-scanner.bat" local-analyse -c "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -l "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs" -r dummy -la  -od "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -of db -si 4y5q84cttw
+2024-02-07 12:41:48 error: stderr: The system cannot find the file C:\ProgramData\Oracle\Java\javapath\java.exe.
+
+2024-02-07 12:41:48 info: child process exited with code 9059
+2024-02-07 12:41:48 error: Error in Embold scan, Error code:9059 For more info check c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs\browserstack-codequality-scanner.log
+2024-02-07 12:43:43 info: FIle extension : js
+2024-02-07 12:43:43 info: Reading config.json file from resources
+2024-02-07 12:43:43 info: configFile :c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\config.json
+2024-02-07 12:43:43 info: EMBOLD_URL  :https://packages.embold.io/
+2024-02-07 12:43:43 info: EMBOLD_TOKEN  :eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw
+2024-02-07 12:43:43 info: Executing embold-cli command
+2024-02-07 12:43:43 info: "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\temp\embold-scanner-archive\bin\embold-scanner.bat" local-analyse -c "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -l "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs" -r dummy -la  -od "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -of db -si x2a4nr6e3f
+2024-02-07 12:43:43 error: stderr: The system cannot find the file C:\ProgramData\Oracle\Java\javapath\java.exe.
+
+2024-02-07 12:43:43 info: child process exited with code 9059
+2024-02-07 12:43:43 error: Error in Embold scan, Error code:9059 For more info check c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs\browserstack-codequality-scanner.log
+2024-02-07 12:46:17 info: FIle extension : js
+2024-02-07 12:46:17 info: Reading config.json file from resources
+2024-02-07 12:46:17 info: configFile :c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\config.json
+2024-02-07 12:46:17 info: EMBOLD_URL  :https://packages.embold.io/
+2024-02-07 12:46:17 info: EMBOLD_TOKEN  :eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw
+2024-02-07 12:46:17 info: Executing embold-cli command
+2024-02-07 12:46:17 info: "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\temp\embold-scanner-archive\bin\embold-scanner.bat" local-analyse -c "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -l "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs" -r dummy -la  -od "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -of db -si crxj7jt9bi
+2024-02-07 12:46:17 error: stderr: The system cannot find the file C:\ProgramData\Oracle\Java\javapath\java.exe.
+
+2024-02-07 12:46:17 info: child process exited with code 9059
+2024-02-07 12:46:17 error: Error in Embold scan, Error code:9059 For more info check c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs\browserstack-codequality-scanner.log
+2024-02-07 12:46:35 info: FIle extension : js
+2024-02-07 12:46:36 info: Reading config.json file from resources
+2024-02-07 12:46:36 info: configFile :c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\config.json
+2024-02-07 12:46:36 info: EMBOLD_URL  :https://packages.embold.io/
+2024-02-07 12:46:36 info: EMBOLD_TOKEN  :eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw
+2024-02-07 12:46:36 info: Executing embold-cli command
+2024-02-07 12:46:36 info: "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\temp\embold-scanner-archive\bin\embold-scanner.bat" local-analyse -c "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -l "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs" -r dummy -la  -od "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -of db -si 406aha5ujwi
+2024-02-07 12:46:36 error: stderr: The system cannot find the file C:\ProgramData\Oracle\Java\javapath\java.exe.
+
+2024-02-07 12:46:36 info: child process exited with code 9059
+2024-02-07 12:46:36 error: Error in Embold scan, Error code:9059 For more info check c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs\browserstack-codequality-scanner.log
+2024-02-07 12:50:52 info: FIle extension : js
+2024-02-07 12:50:52 info: Reading config.json file from resources
+2024-02-07 12:50:52 info: configFile :c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\config.json
+2024-02-07 12:50:52 info: EMBOLD_URL  :https://packages.embold.io/
+2024-02-07 12:50:52 info: EMBOLD_TOKEN  :eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw
+2024-02-07 12:50:52 info: Executing embold-cli command
+2024-02-07 12:50:52 info: "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\temp\embold-scanner-archive\bin\embold-scanner.bat" local-analyse -c "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -l "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs" -r dummy -la  -od "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -of db -si ryyr7kfe1y
+2024-02-07 12:50:52 error: stderr: The system cannot find the file C:\ProgramData\Oracle\Java\javapath\java.exe.
+
+2024-02-07 12:50:52 info: child process exited with code 9059
+2024-02-07 12:50:52 error: Error in Embold scan, Error code:9059 For more info check c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs\browserstack-codequality-scanner.log
+2024-02-07 12:50:55 info: FIle extension : js
+2024-02-07 12:50:55 info: Reading config.json file from resources
+2024-02-07 12:50:55 info: configFile :c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\config.json
+2024-02-07 12:50:55 info: EMBOLD_URL  :https://packages.embold.io/
+2024-02-07 12:50:55 info: EMBOLD_TOKEN  :eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw
+2024-02-07 12:50:55 info: Executing embold-cli command
+2024-02-07 12:50:55 info: "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\temp\embold-scanner-archive\bin\embold-scanner.bat" local-analyse -c "c:\Users\Acer\.vscode\extensions\embold-vscode.embold-0.1.8\resources\repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -l "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs" -r dummy -la  -od "c:\Users\Acer\Desktop\rjs-divar-api-main\.embold" -of db -si le3cx3bzm1
+2024-02-07 12:50:55 error: stderr: The system cannot find the file C:\ProgramData\Oracle\Java\javapath\java.exe.
+
+2024-02-07 12:50:56 info: child process exited with code 9059
+2024-02-07 12:50:56 error: Error in Embold scan, Error code:9059 For more info check c:\Users\Acer\Desktop\rjs-divar-api-main\.embold\corona_logs\browserstack-codequality-scanner.log
